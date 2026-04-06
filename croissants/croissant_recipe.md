@@ -1,8 +1,8 @@
-<h1 style="font-size: 45px;">Croissants</h1>
+# Croissants
 
 <img src="try_1/try_1_result_1.jpg" width="49%"/> <img src="try_1/try_1_result_0.jpg" width="49%"/>
 
-# Table of Contents
+## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [General Remarks](#general-remarks)
   - [Flour](#flour)
@@ -28,14 +28,14 @@
 - [Useful Links](#useful-links)
 
 
-# General Remarks 
-## Flour
+## General Remarks 
+### Flour
 This recipe uses very strong wheat flour (type 405, type 00, or equivalent), with 12-13g of protein. The amount of protein indicates the amount of gluten. Gluten makes the dough strong, which is very important, because the buttery croissant dough is very heavy. Without a strong dough it will not rise well. You can of course experiment with using type 550 / type 1 flour for different taste.
 
-## Butter
+### Butter
 It is best to use butter with less water content for laminating dough, as it leaks less and is therefore better for lamination. Normal butter has 18% of water, we want to ideally use a butter with 16% water. If you can find butter sheets instead of blocks, use them. I have never found it, so my recipe uses butter blocks.
 
-## Ingredients (for 12 croissants)
+### Ingredients (for 12 croissants)
 - 500g wheat flour (type 405, type 00, or equivalent)
 - 155g water
 - 115g milk
@@ -46,7 +46,7 @@ It is best to use butter with less water content for laminating dough, as it lea
 - 50g sugar
 - 10g salt
   
-## Tools
+### Tools
 - Dough mixer
 - Precise scale
 - Baking papers
