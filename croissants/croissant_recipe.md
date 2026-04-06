@@ -92,9 +92,8 @@ Poolish is a liquid pre-ferment. It improves the stability of the dough which le
 #### Steps:
 1. Dissolve fresh yeast in the water and add milk. The milk contains lactose, which is not fermentable by the yeast, and therefore caramelizes in the oven.  
 2. Add butter, flour, and sugar. 
-3. Add the salt last. The flour between the yeast helps prevent direct contact, which can inhibit yeast activity.
-   yeast from losing its effectiveness.
-1. Mix about 5 min on very slow speed to incorporate everything, then 3 min on
+3. Add the salt last. The flour between the yeast and the salt prevents direct contact, which can inhibit yeast activity.
+4. Mix about 5 min on very slow speed to incorporate everything, then 3 min on
    a little higher speed. It is crucial to not over-mix the dough for two
    reasons. First, the mixing warms up the dough due to friction. It is very
    important that the dough does not get too hot (>28°C) as it would destroy
@@ -104,10 +103,10 @@ Poolish is a liquid pre-ferment. It improves the stability of the dough which le
    temperature, not exact values. Do so-called window tests in between
    to find the moment when the gluten structure is well developed and stop
    then.
-2. Form a dough ball. Slightly cut a cross in the top so the dough opens more easily into a rectangle later. Cover it and let it rest for about
+5. Form a dough ball. Slightly cut a cross in the top so the dough opens more easily into a rectangle later. Cover it and let it rest for about
    20 min to give it time to relax.
-3. Slightly dust the table with flour. Roll out the dough to a 30x20cm rectangle.
-4. Place it on baking paper, plastic wrap it, and store it in fridge for about 10-12h.
+6. Slightly dust the table with flour. Roll out the dough to a 30x20cm rectangle.
+7. Place it on baking paper, plastic wrap it, and store it in fridge for about 10-12h.
    
 ### Butter Sheet
 #### Ingredients:
