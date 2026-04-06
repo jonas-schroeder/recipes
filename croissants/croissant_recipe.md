@@ -1,3 +1,7 @@
+<h1 style="font-size: 40px;">Croissants</h1>
+
+<img src="try_1/try_1_result_1.jpg" width="49%"/> <img src="try_1/try_1_result_0.jpg" width="49%"/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [General Remarks](#general-remarks)
