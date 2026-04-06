@@ -1,5 +1,6 @@
 # Croissants
-
+I have wanted to bake croissants for many years, but never dared to because they are so difficult. I finally decided to give it a try and to document the process. This recipe is the result of a lot of research, great [open source resources](#useful-links), and a bit of experience baking pizza (Recipe coming soonish :D). I will experiment further and improve the recipe step by step. Feel free to use the recipe, give feedback or provide further tips and ideas!  
+   
 <img src="try_1/try_1_result_1.jpg" width="49%"/> <img src="try_1/try_1_result_0.jpg" width="49%"/>
 
 ## Table of Contents
@@ -24,13 +25,13 @@
 
 
 ## Flour
-This recipe uses very strong wheat flour (type 405, type 00, or equivalent), with 12-13g of protein. The amount of protein indicates the amount of gluten. Gluten makes the dough strong, which is very important, because the buttery croissant dough is very heavy. Without a strong dough it will not rise well. You can of course experiment with using type 550 / type 1 flour for different taste.
+This recipe uses very strong wheat flour (Type 405, Type 00, or equivalent), with 12-13g of protein. The amount of protein indicates the amount of gluten. Gluten makes the dough strong, which is very important, because the buttery croissant dough is very heavy. Without a strong dough it will not rise well. You can of course experiment with using type 550 / type 1 flour for different taste.
 
 ## Butter
-It is best to use butter with less water content for laminating dough, as it leaks less and is therefore better for lamination. Normal butter has 18% of water, we want to ideally use a butter with 16% water. If you can find butter sheets instead of blocks, use them. I have never found it, so my recipe uses butter blocks.
+It is best to use butter with less water content for laminating dough, as it leaks less and is therefore better for lamination. Normal butter has 18% of water, we want to ideally use a butter with 16% water. If you can find butter sheets instead of blocks, use them. I have never found them, so my recipe uses butter blocks.
 
 ## Ingredients (for 12 croissants)
-- 500g wheat flour (type 405, type 00, or equivalent)
+- 500g wheat flour (Type 405, Type 00, or equivalent)
 - 155g water
 - 115g milk
 - 250g block butter (16% water)
@@ -44,8 +45,8 @@ It is best to use butter with less water content for laminating dough, as it lea
 ## Tools
 - Dough mixer
 - Precise scale
-- Baking papers
-- 2 Baking sheets
+- Baking paper
+- 2 baking sheets
 - Plastic wrap
 - Dough roller (preferably with spacers)
 - Knife (preferably sharp as it reduces stress on the dough)
@@ -61,12 +62,12 @@ It is best to use butter with less water content for laminating dough, as it lea
 
 # Recipe
 ## Day 1: Making Poolish
-Poolish is a liquid pre-ferment. It improves the stability of the dough which leads to an airier dough and enhances the flavor. The yeast and honey amounts do not have to be very exact and are always the same, independent of the total amount of poolish. 
+Poolish is a liquid pre-ferment. It improves the stability of the dough, which leads to an airier dough, and enhances the flavor. The yeast and honey amounts do not have to be very exact and are always the same, independent of the total amount of poolish. 
 - Ingredients:
   - 5g dry yeast
   - 5g honey
   - 100g water
-  - 100g flour
+  - 100g flour (Type 405, Type 00, or equivalent)
   
 - Steps:
    1. Use the closable box. Dissolve dry yeast and honey in the water.
@@ -81,7 +82,7 @@ Poolish is a liquid pre-ferment. It improves the stability of the dough which le
 - 115g milk
 - 20g butter
 - 50g sugar
-- 400g flour
+- 400g flour (Type 405, Type 00, or equivalent)
 - 10g salt
 
 #### Steps:
@@ -108,7 +109,7 @@ Poolish is a liquid pre-ferment. It improves the stability of the dough which le
 - 250g butter block (16% water)
 
 #### Steps:
-1. Mark 20x15cm rectangle on baking paper and flip it, so the markings are on the bottom
+1. Mark a 20x15cm rectangle on baking paper and flip it, so the markings are on the bottom.
 2. Place butter block on the baking paper and slap it with the rolling pin. Roll it until it begins to spread. 
 3. Fold the baking paper at the markings and wrap the butter. Flip it over.
 4. Roll out the butter until it is a uniform sheet and all edges are filled. 
@@ -119,20 +120,20 @@ Poolish is a liquid pre-ferment. It improves the stability of the dough which le
 We use 1 `book fold` and 1 `letter fold`. This produces 13 dough layers (see [Laminated Dough Calculator](https://observablehq.com/@mourner/laminated-dough-calculator)). Other popular combinations are: 1 `book fold` and 2 `single folds` (17 dough layers) or 3 `letter folds` (28 dough layers). The more layers, the finer the inner structure of the croissant. But it comes with the risk of layers sticking together. 
 
 1. Take the butter out of the fridge first. Check the consistency of the butter and the dough. It is crucial that it is similar, so that the butter does not rip and stretches evenly within the laminate. Continue if it is similar.
-2. Slightly dust the table with flour. Unwrap the dough, place it on the table, and make sure that it still has the 30x20cm shape. We make a `dough-butter-sandwich` now. Unwrap the butter and place it on the middle of the dough, so that the the 20cm side align. On both sides of the butter sheet should be 7.5cm dough looking out. Cut this extending dough exactly at the edge of the butter. Flip it onto the butter so that the cut sides meet in the middle. Close the gap and slightly press the side in the middle together. Keep the wraps, because they are needed throughout the whole process. 
+2. Slightly dust the table with flour. Unwrap the dough, place it on the table, and make sure that it still has the 30x20cm shape. We make a `dough-butter-sandwich` now. Unwrap the butter and place it in the middle of the dough, so that the the 20cm sides align. On both sides of the butter sheet should be 7.5cm dough looking out. Cut this extending dough exactly at the edge of the butter. Flip it onto the butter so that the cut sides meet in the middle. Close the gap and slightly press the sides in the middle together. Keep the wraps, because they are needed throughout the whole process. 
 3. Slightly dust the top of the dough, wipe off excess flour. Now roll out the dough along the direction of the closed cut to not pull the edges apart again. Just press slightly. Make sure the butter stretches evenly with the dough. If the dough starts to stick, slightly dust the top or the table again.
 4. Stop when the dough reaches a length of 64cm. Cut the uneven ends. 
 5. Now we make the so-called `offset book fold`: Fold one of the cut sides only about 15 cm. Fold the other edge onto the dough, so the cut sides meet again, off-centered. Optionally reuse the cut dough from the last step in between the closing sides. Fold the whole thing in half again. Cut the bent edges, that were caused by the folding, with a sharp knife. That produces a more even lamination.
 6. Wrap the dough and put it in the freezer for about 15 min to cool down again. The cooling times should be based on texture, not exact values. <!-- TODO Provide reasoning -->
-7. Get the dough out and unwrap it. slightly dust the table and the dough top. Roll it out toward the long side until it reaches 61cm. Cut the edges to make them straight. 
-8. Now we make the `letter fold`: Fold one third of the dough onto the middle third. Now fold the remaining third on the already folded dough. In the end the dough layers should be tripled and all sides aligned. Cut the introduced bend edges with a sharp knife.
+7. Get the dough out and unwrap it. Slightly dust the table and the dough top. Roll it out toward the long side until it reaches 61cm. Cut the edges to make them straight. 
+8. Now, we make the `letter fold`: Fold one third of the dough onto the middle third. Now, fold the remaining third onto the already folded dough. In the end, the dough layers should be tripled and all sides aligned. Cut the introduced bend edges with a sharp knife.
 9. Wrap it and put it into the freezer for 20 min.
-10.  Unwrap and dust it again. Roll out toward the long side until it reaches 28cm. Rotate the dough 90 degrees. Roll out until it reaches 60cm. Cut the side straight. 
-11.  Mark on both long sides every 10cm with a small knife cut. Cut between the markings to get 6 long rectangles. Cut the rectangles diagonally to get long triangles. Optionally, make a 1cm cut in the middle of the small edge and. That leads to longer and crunchier croissant tips.
+10.  Unwrap and dust it again. Roll out toward the long side until it reaches 28cm. Rotate the dough 90 degrees. Roll out until it reaches 60cm. Cut the sides straight. 
+11.  Mark on both long sides every 10cm with a small knife cut. Cut between the markings to get 6 long rectangles. Cut the rectangles diagonally to get long triangles. Optionally, make a 1cm cut in the middle of the small edge. That leads to longer and crunchier croissant tips, as we see in the next chapter.
 
 ### 2. Rolling
-1. Now it is time to roll the croissants. Make sure to remove all excess flour, so that the dough can stick on itself. 
-2. Slightly stretch the 2/3 thinner part of the triangle so it extents about 25%. If you made the small cut in the middle of the small edge, pull it slightly apart before rolling.
+1. Now, it is time to roll the croissants. Make sure to remove all excess flour, so that the dough can stick to itself. 
+2. Slightly stretch the 2/3 thinner part of the triangle so it extends about 25%. If you made the small cut in the middle of the short edge, pull it slightly apart before rolling.
 3. Start rolling from the small edge, pressing firmly. It is important that the rolled dough does not have gaps to get an even inner structure. Get lighter toward the end of the roll. The tip should be slightly underneath the croissant, so that it stays in place. Press down a bit to make it stick to the roll. The croissant should ideally have 7 segments. 
 1. Place the rolled croissant on fresh baking paper on a baking sheet. Place them far enough apart and 45 degrees angled, they will double in size. 
 2. Repeat steps 3. and 4. for all triangles. 
@@ -140,20 +141,20 @@ We use 1 `book fold` and 1 `letter fold`. This produces 13 dough layers (see [La
 ### 3. Final Proofing
 The croissants should proof for about 2-3h in about 70% humidity. We use an oven for that. Alternatively you can spray them with water and proof them under plastic wrap, it will just take a little longer. Be careful while removing the plastic wrap.
 
-1. Boil some water and put it into the pot/bowl. Add a bit cold water and place it on the bottom of your cold oven.
-2. Place the baking sheets above the warm water. Use the thermometer to control the temperature. It must not exceed 30°C as this would melt the butter and ruins the lamination. Between 25-29 is a good range. Be careful with the croissants that are directly above the water, it tends to get a bit warmer there. If you notice butter leaking, directly open the door and cool the oven down a bit. To proof the croissants evenly, you can switch the baking sheets after a while. Check the temperature frequently and add more hot water or open the oven door to regulate it. 
-3. Prepare the egg wash in the meantime [See ]
-4. The croissants are ready when they doubled in size, look puffy, and wobble slightly if you shake the sheet. Take them out carefully. Do not move them anymore, they are very sensitive now. Directly pre-heat the oven to 200°C with fan on.
+1. Boil some water and put it into the pot/bowl. Add a bit of cold water and place it on the bottom of your cold oven.
+2. Place the baking sheets above the warm water. Use the thermometer to control the temperature. It must not exceed 30°C, as this would melt the butter and ruin the lamination. Between 25-29°C is a good range. Be careful with the croissants that are directly above the water; it tends to get a bit warmer there. If you notice butter leaking, immediately open the door and cool the oven down a bit. To proof the croissants evenly, you can switch the baking sheets after a while. Check the temperature frequently and add more hot water or open the oven door to regulate it. 
+3. Prepare the egg wash in the meantime (See [here](#4-egg-wash))
+4. The croissants are ready when they double in size, look puffy, and wobble slightly if you shake the sheet. Take them out carefully. Do not move them anymore, they are very sensitive now. Directly preheat the oven to 200°C with fan on.
      
 ### 4. Egg Wash
-1. Mix 2 eggs, 1 egg yolk, a pinch of salt and optionally a sip of milk until it is an even mass. 
-2. Optionally filter it through the sieve to make it even finer.
+1. Mix 2 eggs, 1 egg yolk, a pinch of salt and optionally a splash of milk until it is an even mass. 
+2. Optionally, filter it through the sieve to make it even finer.
 2. Carefully spread the egg wash on the croissants. You can spread it to taste only on the top facing parts or also on the sides.
     
 ### 5. Baking
-1. When the oven reached 200°C, put the croissants in, preferably one sheet at a time.
+1. When the oven reaches 200°C, put the croissants in, preferably one sheet at a time.
 2. Bake for around 15 min. Check them frequently. As the color gives a wrong impression through the oven glass, briefly open the door to have a better look. 
-3. Get the croissant out, when they become a dark golden color. 
+3. Get the croissants out, when they become a dark golden color. It depends on how crunchy you like them.
 4. ENJOY!
 
 # Things to Try in the Future
