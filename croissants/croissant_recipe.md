@@ -63,13 +63,13 @@ It is best to use butter with less water content for laminating dough, as it lea
 # Recipe
 ## Day 1: Making Poolish
 Poolish is a liquid pre-ferment. It improves the stability of the dough, which leads to an airier dough, and enhances the flavor. The yeast and honey amounts do not have to be very exact and are always the same, independent of the total amount of poolish. 
-- Ingredients:
+#### Ingredients:
   - 5g dry yeast
   - 5g honey
   - 100g water
   - 100g flour (Type 405, Type 00, or equivalent)
   
-- Steps:
+#### Steps:
    1. Use the closable box. Dissolve dry yeast and honey in the water.
    2. Mix in the flour for a minute until everything is uniform.
    3. Store closed in fridge for 16-24h.
@@ -135,8 +135,8 @@ We use 1 `book fold` and 1 `letter fold`. This produces 13 dough layers (see [La
 1. Now, it is time to roll the croissants. Make sure to remove all excess flour, so that the dough can stick to itself. 
 2. Slightly stretch the 2/3 thinner part of the triangle so it extends about 25%. If you made the small cut in the middle of the short edge, pull it slightly apart before rolling.
 3. Start rolling from the small edge, pressing firmly. It is important that the rolled dough does not have gaps to get an even inner structure. Get lighter toward the end of the roll. The tip should be slightly underneath the croissant, so that it stays in place. Press down a bit to make it stick to the roll. The croissant should ideally have 7 segments. 
-1. Place the rolled croissant on fresh baking paper on a baking sheet. Place them far enough apart and 45 degrees angled, they will double in size. 
-2. Repeat steps 3. and 4. for all triangles. 
+4. Place the rolled croissant on fresh baking paper on a baking sheet. Place them far enough apart and 45 degrees angled, they will double in size. 
+5. Repeat steps 3. and 4. for all triangles. 
 
 ### 3. Final Proofing
 The croissants should proof for about 2-3h in about 70% humidity. We use an oven for that. Alternatively you can spray them with water and proof them under plastic wrap, it will just take a little longer. Be careful while removing the plastic wrap.
@@ -149,7 +149,7 @@ The croissants should proof for about 2-3h in about 70% humidity. We use an oven
 ### 4. Egg Wash
 1. Mix 2 eggs, 1 egg yolk, a pinch of salt and optionally a splash of milk until it is an even mass. 
 2. Optionally, filter it through the sieve to make it even finer.
-2. Carefully spread the egg wash on the croissants. You can spread it to taste only on the top facing parts or also on the sides.
+3. Carefully spread the egg wash on the croissants. You can spread it to taste only on the top facing parts or also on the sides.
     
 ### 5. Baking
 1. When the oven reaches 200°C, put the croissants in, preferably one sheet at a time.
