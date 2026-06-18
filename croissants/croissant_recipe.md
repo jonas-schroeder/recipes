@@ -1,5 +1,5 @@
 # Croissants
-I have wanted to bake croissants for many years, but never dared to because they are so difficult. I finally decided to give it a try and to document the process. This recipe is the result of a lot of research, great [open source resources](#useful-links), and a bit of experience baking pizza (Recipe coming soonish :D). I will experiment further and improve the recipe step by step. Feel free to use the recipe, give feedback or provide further tips and ideas!  
+I have wanted to bake croissants for many years, but never dared to because they are so difficult. I finally decided to give it a try and to document the process. This recipe is the result of a lot of research, great [open resources](#useful-links), and a bit of experience baking pizza (Recipe coming soonish :D). I will experiment further and improve the recipe step by step. Feel free to use the recipe, give feedback or provide further tips and ideas!  
    
 <img src="try_1/try_1_result_1.jpg" width="49%"/> <img src="try_1/try_1_result_0.jpg" width="49%"/>
 
